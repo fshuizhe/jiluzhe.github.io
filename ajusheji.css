@@ -6,3 +6,11 @@ body{
 	width: 720px;
 	margin: 8px auto;
 }
+
+blockquote{
+	border-left: 8px solid green;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 12px;
+	background-color: #f0f0f0;
+}
